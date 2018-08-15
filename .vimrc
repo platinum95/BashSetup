@@ -30,7 +30,7 @@
     "
     " see :h vundle for more details or wiki for FAQ
 
-    let g:ycm_global_ycm_extra_conf = '/home/samer/.vim/YCM/ycm_extra_conf.py'
+    let g:ycm_global_ycm_extra_conf = '$HOME/.vim/bundle/YouCompleteMe/third_party/ycmd/.ycm_extra_conf.py'
 "====================Pathogen=============="
     execute pathogen#infect()
 "================Syntastic================="
