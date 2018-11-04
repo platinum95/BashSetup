@@ -17,4 +17,4 @@ if [ -f ~/.tmux.conf ]; then
     mv ~/.tmux.conf ~/.tmux.conf_bak
 fi
 cp ./.vimrc ~/.vimrc
-cp ./.tmux.conf ~/.tmux.conf_bak
+cp ./.tmux.conf ~/.tmux.conf
